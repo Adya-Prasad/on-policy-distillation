@@ -1,0 +1,22 @@
+# --- Python Environment & Caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# --- Machine Learning Logs & Checkpoints ---
+lightning_logs/
+runs/
+.wandb/
+wandb/
+outputs/
+checkpoints/
+
+# --- IDEs and OS Files ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
