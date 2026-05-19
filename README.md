@@ -1,4 +1,7 @@
-<h1 style="color: #fc9b23; border: 1px solid; padding: 10px 0px; text-align:center;"> ON POLICY DISTILLATION </h1>
+<h2 style="color: #fc9b23; border: 1px solid; padding: 10px 0px; text-align:center;"> ON POLICY DISTILLATION </h2>
+
+1. Distill `Qwen/Qwen2.5-0.5B-Instruct` for Structured Tool-Use Syntax
+2. 
 
 ### Resources
 1. On-Policy Distillation by _Kevin Lu in collaboration with others at Thinking Machines_ https://thinkingmachines.ai/blog/on-policy-distillation/
