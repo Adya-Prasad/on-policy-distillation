@@ -20,3 +20,6 @@ checkpoints/
 .idea/
 .DS_Store
 Thumbs.db
+
+TM_continual_learning_note.md
+policy_distillation_tool_note.md

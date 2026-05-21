@@ -19,9 +19,9 @@ Reproduction of Thinking Machines' continual-learning experiment
 ## Results
 | Stage      | IF score | JSON score |
 |------------|----------|------------|
-| Baseline   | 83.3%  | 80.0%   |
-| Post-SFT   | 8.3%  | 60.0%   |
-| Post-OPD   | 16.7%  | 70.0%   |
+| Baseline   | 65.0%  | 66.7%   |
+| Post-SFT   | 45.0%  | 75.0%   |
+| Post-OPD   | 55.0%  | 75.0%   |
 
 ## Hardware
 NVIDIA GTX 1650 (4 GB), Windows + PowerShell.
