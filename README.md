@@ -9,4 +9,4 @@
 3. Distilling 100B+ Models 40x Faster with TRL by _HuggingFace_ https://huggingface.co/spaces/HuggingFaceTB/trl-distillation-trainer
 4. A Survey of On-Policy Distillation for Large Language Models by _Mingyang et al._ https://arxiv.org/pdf/2604.00626
 5. On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes _by Rishabh et al._ https://arxiv.org/pdf/2306.13649
-6. On-Policy Knowledge Distillation _by emergentmind_ https://www.emergentmind.com/topics/on-policy-knowledge-distillation
+6. Claude public artifact: On SFT, RL, and on-policy distillation https://claude.ai/public/artifacts/e03bf1a9-a6ab-4324-8ed2-cca1543f0878 
